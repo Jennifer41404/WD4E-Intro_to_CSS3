@@ -1,4 +1,14 @@
 body{
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 150%;
+  background-color: cadetblue;
+  
+}
+
+li{
+  display: inline-block;
+  text-align: center;
+  width: 27%;
+  height: 100px;
+  line-height: 100px;
 }
